@@ -7,4 +7,4 @@ Le but du jeu *Partir à la dérive* va d'être de collecter tout le nécéssair
 ## MOODBOARD VISUEL
 ![moodboard visuel](/assets/moodboardVisuel.png)
 ## SCHÉMA DE PROGRAMMATION
-![schéma de programmation](/assets/schemaProg.png)
+![schéma de programmation](/assets/schemaProg.png) 
