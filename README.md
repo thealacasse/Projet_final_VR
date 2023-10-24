@@ -10,4 +10,4 @@ Le but du jeu *Partir à la dérive* va d'être de collecter tout le nécéssair
 ![carte environnement](/assets/Island.png)
 ## SCHÉMA DE PROGRAMMATION
 ![schéma de programmation](/assets/schemaProg.png) 
-## [Tableau de tâches pour le jeu](https://trello.com/b/JYAyEVmf/corgirequin) 
+## [Tableau de tâches pour le jeu (Trello)](https://trello.com/b/JYAyEVmf/corgirequin) 
