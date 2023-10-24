@@ -6,6 +6,8 @@ Le but du jeu *Partir à la dérive* va d'être de collecter tout le nécéssair
 ## [Ambience général sonore](https://youtu.be/kkOuS-4GBlE?si=b-FO_awJggvw1erH) , [Vent](https://www.youtube.com/watch?v=qBAPsQkS8QI) , [Eau (vague)](https://www.youtube.com/watch?v=bn9F19Hi1Lk) 
 ## MOODBOARD VISUEL
 ![moodboard visuel](/assets/moodboardVisuel.png)
+## CARTE ENVIRONNEMNET VIRTUEL
+![carte environnement](/assets/Island.png)
 ## SCHÉMA DE PROGRAMMATION
 ![schéma de programmation](/assets/schemaProg.png) 
 ## [Tableau de tâches pour le jeu](https://trello.com/b/JYAyEVmf/corgirequin) 
